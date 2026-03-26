@@ -67,3 +67,8 @@ Engineered a custom **Redis Reconnect Strategy**. If the Redis container goes of
 5. **Run the server**
     ```bash
     npm run dev
+
+
+---
+### Please Notice
+Ignore the files inside the 'dummy' folder. I created them during my Node js learning session to practice different topics.
