@@ -1,0 +1,26 @@
+[
+  {
+    "username": "Fahad Bin Ibrahim",
+    "user_role": "editor",
+    "password": "$2b$10$WH4I2jxSjVVpa1LCHcI2rOillTG0.XJycES5VinoALlPt0tYuytem",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkZhaGFkIEJpbiBJYnJhaGltIiwiaWF0IjoxNzczOTA0MzM4LCJleHAiOjE3NzM5OTA3Mzh9.skwfPCUyqxCbv2OeJIg2plrZ41zP_5MbaB06bHfpxn0"
+  },
+  {
+    "username": "Hasan Reduan",
+    "user_role": "user",
+    "password": "$2b$10$KFOUeHAzQHE5E03QVAhmauPjUUpRLGTb5now/cOT0nbFBOVDsLSlO",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ikhhc2FuIFJlZHVhbiIsImlhdCI6MTc3MzkwMTg3MiwiZXhwIjoxNzczOTg4MjcyfQ.38wc1oQ0N1jZ8s6Qeki3OLSYhkBCWI8Gr6c_FNMcvfU"
+  },
+  {
+    "username": "Md Sawkat Hossain",
+    "user_role": "user",
+    "password": "$2b$10$Cm42IRF/i4UwYgERcXOq/.H4Ra/Z1DJB79vzO5aV69awSvy7Cq/Ey",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik1kIFNhd2thdCBIb3NzYWluIiwiaWF0IjoxNzczOTAxODUwLCJleHAiOjE3NzM5ODgyNTB9.UklxLDdxzgF_wz4fBdu6ecJ0aSpRj-y5X88VXrLDtBA"
+  },
+  {
+    "username": "Md farhad Hossain",
+    "user_role": "admin",
+    "password": "$2b$10$3jbhOLNQOcCUl69cOxFsP.l8aELmmX.YW8k/fcGPTUJxOYbAQA.gW",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik1kIGZhcmhhZCBIb3NzYWluIiwiaWF0IjoxNzczOTAxODAwLCJleHAiOjE3NzM5ODgyMDB9.bwLDnBpdbGt3xSDl3ZNVN36yJEhYdU8FThsHzcHDQ98"
+  }
+]
